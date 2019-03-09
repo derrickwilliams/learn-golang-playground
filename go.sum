@@ -1,0 +1,6 @@
+github.com/jtacoma/uritemplates v1.0.0 h1:xwx5sBF7pPAb0Uj8lDC1Q/aBPpOFyQza7OC705ZlLCo=
+github.com/jtacoma/uritemplates v1.0.0/go.mod h1:IhIICdE9OcvgUnGwTtJxgBQ+VrTrti5PcbLVSJianO8=
+github.com/lostisland/go-sawyer v0.0.0-20140725174311-0b59bd972118 h1:xdH0zgeQ2TPb2ywdmgTbtUDIKIfGeSS3noKx+Yo7Ymc=
+github.com/lostisland/go-sawyer v0.0.0-20140725174311-0b59bd972118/go.mod h1:LaPWJfc7oUUAjDqhtw4ReywEB0hTqC7zO5w6o/sFMRM=
+github.com/octokit/go-octokit v0.4.0 h1:2NELGGExO4IapjmIQJssauyN/yEvgs48qV1P9TXTH2o=
+github.com/octokit/go-octokit v0.4.0/go.mod h1:2u3khcAsOOTW3hlaM3dbJxDdvwHMDGQsC5m7edPSLkg=
